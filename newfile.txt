@@ -1,3 +1,7 @@
 Helloo
 
+<<<<<<< HEAD
 I am changing the new file
+=======
+I am writing this in the github
+>>>>>>> 65af0d441a7bbc0d50b8c1d6fac3a6b4f6d2ecc5
